@@ -6,6 +6,12 @@
 
 `Get-Command`
 
+**Reset das Fensterinhalt**
+
+`cls` oder
+
+`Clear`
+
 **Anzeige von Hilfe zu einem Befehl**
 
 `Get-Help <Cdmlet-Name>`
