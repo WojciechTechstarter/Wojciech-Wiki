@@ -6,7 +6,7 @@
 - Gib den Befehl *python3* ein, um Python zu starten
 - Erstelle eine Datei mit der Endung *.py*
 - Schreibe deinen Code in diesen Datei (Editor)
-- Um den Code auszuführen, gehe in den Terminal und gib den Befehl *python dateiname.py*
+- Um den Code auszuführen, gehe in den Terminal und gib den Befehl *python3 dateiname.py*
 
 # 2 Befehle in Python-Code - Basics
 
